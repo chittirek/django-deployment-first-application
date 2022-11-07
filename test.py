@@ -1,2 +1,3 @@
 #display message
-print("welcome the students");
+print("welcome to students");
+print("welcome to django");
